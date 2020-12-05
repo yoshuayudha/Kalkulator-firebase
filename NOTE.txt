@@ -1,0 +1,4 @@
+NB :
+*maaf pak saya buat partisi karena filenya lebih sedikit dari 25mb
+1. buat file bernama Kalkulator
+2. extract file part 1 dan part 2 kedalam file tersebut
